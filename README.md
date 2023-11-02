@@ -2,8 +2,8 @@
 
 DAT 530 Project 
 
-  
-  . Dashboard presentation on New England Storm Data Power BI
+Dashboard presentation on New England Storm Data Power BI
+
   . Transfered excel file to Power BI to create Dashboard
   . Validated Data using Power BI in order to ensure accuracy
   . Deaths and Injuries by category (Direct, Indirect Stacked Bar Chart)
