@@ -14,18 +14,18 @@ DAT 530 Project
 D&D SPELL VISUALS 
 . Found dataset using kaggle containing list of information for Dungeons and Dragons 5th Edition Spells
 . Spreadsheet included -
- - Spell Name
- - Spell Description
- - Spell Level
- - Spell Schoool
- - Casting Time
- - Range
- - Duration
- - Class(es) capable of casting
- - Verbal Components (count)
- - Somantic compenents (count)
- - Material Components (count)
- - Material Components (description)
+  - Spell Name
+  - Spell Description
+  - Spell Level
+  - Spell Schoool
+  - Casting Time
+  - Range
+  - Duration
+  - Class(es) capable of casting
+  - Verbal Components (count)
+  - Somantic compenents (count)
+  - Material Components (count)
+  - Material Components (description)
 . Used Excel in order to validate all columns to ensure accuracy
 . Created Dashboard in Power BI containing the following visusals
   - Count of Spells by Class (Donut Chart)
