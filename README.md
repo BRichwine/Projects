@@ -1,31 +1,33 @@
 # Projects
 
 DAT 530 Project 
-. Dashboard presentation on New England Storm Data Power BI
-. Transfered excel file to Power BI to create Dashboard
-. Validated Data using Power BI in order to ensure accuracy
-. Deaths and Injuries by category (Direct, Indirect Stacked Bar Chart)
-. Fluctuations in storm events by month (Most to least activity Ribbon Chart)
-. Storms by category (most to least by month Stacked Bar Graph)
-. Number of storms per month (most to least Bar Graph)
-. Cost of damages by category (Pie Graph)
-. Cost of damages by month (most to least Bar Graph)
+
+  
+  . Dashboard presentation on New England Storm Data Power BI
+  . Transfered excel file to Power BI to create Dashboard
+  . Validated Data using Power BI in order to ensure accuracy
+  . Deaths and Injuries by category (Direct, Indirect Stacked Bar Chart)
+  . Fluctuations in storm events by month (Most to least activity Ribbon Chart)
+  . Storms by category (most to least by month Stacked Bar Graph)
+  . Number of storms per month (most to least Bar Graph)
+  . Cost of damages by category (Pie Graph)
+  . Cost of damages by month (most to least Bar Graph)
 
 D&D SPELL VISUALS 
 . Found dataset using kaggle containing list of information for Dungeons and Dragons 5th Edition Spells
 . Spreadsheet included -
-  - Spell Name
-  - Spell Description
-  - Spell Level
-  - Spell Schoool
-  - Casting Time
-  - Range
-  - Duration
-  - Class(es) capable of casting
-  - Verbal Components (count)
-  - Somantic compenents (count)
-  - Material Components (count)
-  - Material Components (description)
+      - Spell Name
+      - Spell Description
+      - Spell Level
+      - Spell Schoool
+      - Casting Time
+      - Range
+      - Duration
+      - Class(es) capable of casting
+      - Verbal Components (count)
+      - Somantic compenents (count)
+      - Material Components (count)
+      - Material Components (description)
 . Used Excel in order to validate all columns to ensure accuracy
 . Created Dashboard in Power BI containing the following visusals
   - Count of Spells by Class (Donut Chart)
